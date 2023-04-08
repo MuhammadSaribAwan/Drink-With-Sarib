@@ -88,7 +88,7 @@ header {
 }
 
 #bannerchild {
-    background-image: url('/Images/Banner\ Bg\ Desgin.png');
+    background-image: url('./Images/Banner\ Bg\ Desgin.png');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -230,7 +230,7 @@ header {
 }
 
 #container1-chiled {
-    background-image: url('/Images/Container1\ Bg\ Desgin.png');
+    background-image: url('./Images/Container1\ Bg\ Desgin.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -343,7 +343,7 @@ header {
 }
 
 #container2-child {
-    background-image: url('/Images/Container2\ Bg\ Desgin.png');
+    background-image: url('./Images/Container2\ Bg\ Desgin.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -455,7 +455,7 @@ header {
 }
 
 #container4-child {
-    background-image: url('/Images/Container4\ Bg\ Desgin.png');
+    background-image: url('./Images/Container4\ Bg\ Desgin.png');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -505,7 +505,7 @@ header {
 /* Container4 End */
 /* Container5 Start */
 #container5 {
-    background-image: url('/Images/Container5\ Bg\ Image.png');
+    background-image: url('./Images/Container5\ Bg\ Image.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -575,7 +575,7 @@ header {
 }
 
 .container6-child {
-    background-image: url('/Images/Container\ 6\ Bg\ Desgin.png');
+    background-image: url('./Images/Container\ 6\ Bg\ Desgin.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -634,7 +634,7 @@ hr {
 }
 
 #container7-child {
-    background-image: url('/Images/Container\ 7\ Bg\ Desgin.png');
+    background-image: url('./Images/Container\ 7\ Bg\ Desgin.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -703,7 +703,7 @@ textarea {
 /* Container7 End */
 /* Footer Start */
 footer {
-    background-image: url('/Images/Footer\ Bg\ Image.png');
+    background-image: url('./Images/Footer\ Bg\ Image.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
